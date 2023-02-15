@@ -1,5 +1,12 @@
 # 플러터를 공부하는 공간
 
+```dart
+개인적으로 도움이 되었던 부분들에 대해서 공유하려고 만들었습니다.
+처음부터 많은 양을 업데이트 하기보다 지속적으로 업데이트 할 수 있도록 노력하겠습니다.
+
+좋은 피드백 주시면, 감사하겠습니다.
+```
+
 # Flutter Official
 
 ### 공식 홈페이지
@@ -15,6 +22,25 @@
 [Flutter](https://www.youtube.com/@flutterdev)
 
 ## 플러터 공식 Sample & Tutorials
+
+## Flutter Cookbook
+
+### Animation
+
+- [Animate a page route transition](https://docs.flutter.dev/cookbook/animation/page-route-animation)
+- [Animate a widget using a physics simulation](https://docs.flutter.dev/cookbook/animation/physics-simulation)
+- [Animate the properties of a container](https://docs.flutter.dev/cookbook/animation/animated-container)
+- [Fade a widget in and out](https://docs.flutter.dev/cookbook/animation/opacity-animation)****
+
+### Design
+
+- [Add a Drawer to a screen](https://docs.flutter.dev/cookbook/design/drawer)
+- [Display a snackbar](https://docs.flutter.dev/cookbook/design/snackbars)
+- [Export fonts from a package](https://docs.flutter.dev/cookbook/design/package-fonts)
+- [Update the UI based on orientation](https://docs.flutter.dev/cookbook/design/orientation)
+- [Use a custom font](https://docs.flutter.dev/cookbook/design/fonts)
+- [Use themes to share colors and font styles](https://docs.flutter.dev/cookbook/design/themes)
+- [Work with tabs](https://docs.flutter.dev/cookbook/design/tabs)
 
 ## Flutter Codelab & Workshop
 
@@ -63,6 +89,14 @@
 
 [https://docs.flutter.dev/reference/tutorials](https://docs.flutter.dev/reference/tutorials)
 
+[Building layouts](https://docs.flutter.dev/development/ui/layout/tutorial)
+
+[Adding interactivity to your Flutter app](https://docs.flutter.dev/development/ui/interactive)
+
+[Animations in Flutter](https://docs.flutter.dev/development/ui/animations/tutorial)
+
+[Internationalizing Flutter apps](https://docs.flutter.dev/development/accessibility-and-localization/internationalization)
+
 ## Package
 
 ### pub.dev
@@ -84,5 +118,11 @@
 ### Fastcampus
 
 ### CodeWithAndrea
+
+# Seminar
+
+### Flutter Korea
+
+[Flutter Korea](https://www.youtube.com/@flutterkorea/videos)
 
 # Flutter 채용
