@@ -113,11 +113,21 @@
 
 # Lecture 강의
 
+## 무료 강의
+
+## 유료 강의
+
 ### Inflearn
 
 ### Fastcampus
 
 ### CodeWithAndrea
+Flutter GDE Andrea Bizzotto의 유료 강의
+[CODE WITH ANDREA](https://courses.codewithandrea.com/)
+
+
+#Blog 
+
 
 # Seminar
 
